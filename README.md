@@ -1,6 +1,7 @@
 -  @LucieLprt-Dvldr (Lucie Laporte-Devylder)
-- 🌱 Ecology, Wildlife biology, Conservation, Carnivores, Arctic ecosystems
-- 📫 Contact: lucie.lprt@gmail.com
+- 🌱 Wildlife Ecology, Biology and Conservation
+      Monitoring, Applied ecology, Technological innovations, AI, Machine Learning, Remote technology, UAS and Drones, Mammals, Terrestrial/Marine ecosystems, Carnivores
+- 📫 Contact: lucie.lprt@gmail.com ; lucie.laporte-devylder@wipsea.com ; lucie@biology.sdu.dk
 
 <!---
 LucieLprt-Dvldr/LucieLprt-Dvldr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
